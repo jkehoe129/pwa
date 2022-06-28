@@ -13,3 +13,8 @@ h1 {
   font-weight: 200;
   color: #0ccac4;
 }
+
+img {
+  max-width: 100%;
+  display: block;
+}
